@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm wearish/cantverifyitsyou</h1>
-<h3 align="center">14 year old, from los angeles</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cantverifyitsyou&label=Profile%20views&color=0e75b6&style=flat" alt="cantverifyitsyou" /> </p>
 
 <p align="left"> <a href="https://twitter.com/wearish" target="blank"><img src="https://img.shields.io/twitter/follow/wearish?logo=twitter&style=for-the-badge" alt="wearish" /></a> </p>
+
+- 🔭 I’m currently working on **multiple projects, all privated.**
+
+- 🌱 I’m currently learning **java**
+
+- 📫 How to reach me **shoot me a dm, wearish#9999**
+
+- ⚡ Fun fact **if my stats are bad its because of privated repos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
