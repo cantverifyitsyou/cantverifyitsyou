@@ -20,5 +20,5 @@ class wearish(ReadMe):
         self.occupation = "SnowProxies CEO / Developer"
 ```
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cantverifyitsyou&style=flat-square&color=00000" />
+  <img src="https://komarev.com/ghpvc/?username=cantverifyitsyou&style=flat-square&color=000000" />
 </p>
