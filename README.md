@@ -1,4 +1,4 @@
-<h1 align="center">hi, im wearish u</h1>
+<h1 align="center">hi, im wearish</h1>
 <h3 align="left">Connect with me: wearish#9999</h3>
 <p align="left">
 </p>
