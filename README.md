@@ -17,7 +17,7 @@ class wearish(ReadMe):
             "cantverifyitsyou"
         ]
         self.location = "Los Angeles, California "
-        self.occupation = "SnowProxies CEO / Developer"
+        self.occupation = "Student"
 ```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cantverifyitsyou&style=flat-square&color=000000" />
